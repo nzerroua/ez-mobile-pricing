@@ -1,0 +1,21 @@
+model,storage,lock_status,count,mean,min,max,suggested_price
+iphone 13,128GB,unlocked,54,303.03,61.22,700.0,296.97
+iphone 13,128GB,unknown,33,328.22,194.95,3000.0,321.66
+iphone 13 mini,128GB,unlocked,18,260.2,197.95,334.99,254.99
+iphone 13,256GB,unlocked,15,306.64,257.99,359.99,300.51
+iphone 13 pro,128GB,unlocked,11,334.32,127.19,415.0,327.64
+iphone 13 pro max,128GB,unlocked,10,470.79,424.99,588.99,461.37
+iphone 13,128GB,locked,5,255.9,235.0,269.99,250.78
+iphone 13 pro,256GB,unlocked,4,414.15,385.95,446.99,405.87
+iphone 13 mini,256GB,unlocked,3,311.3,284.95,329.0,305.07
+iphone 13 pro max,256GB,unlocked,3,495.23,400.0,587.7,485.33
+iphone 13 pro max,512GB,unlocked,2,516.4,483.78,549.03,506.08
+iphone 13 mini,128GB,unknown,2,187.5,180.0,194.99,183.75
+iphone 13,512GB,unlocked,2,379.97,344.95,414.99,372.37
+iphone 13 pro,unknown,unknown,2,1650.0,300.0,3000.0,1617.0
+iphone 13 mini,512GB,unlocked,2,450.47,354.95,545.99,441.46
+iphone 13,unknown,unknown,2,900.0,300.0,1500.0,882.0
+iphone 13 pro,512GB,unlocked,2,388.98,380.0,397.95,381.2
+iphone 13,256GB,locked,1,333.0,333.0,333.0,326.34
+iphone 13 mini,unknown,unknown,1,999.0,999.0,999.0,979.02
+iphone 13 pro,unknown,unlocked,1,449.95,449.95,449.95,440.95
